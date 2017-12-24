@@ -37,10 +37,11 @@ writing procedure independently from csvprocessor class hence making it more fle
 How did you test your project to verify that it works? 
 
 #Answer to the question №2:
+
 Commands like: 
-**node index**
-**node index.js**
-**node index filename**
+- **node index**
+- **node index.js**
+- **node index filename**
 ------------------------------------------------------------------------------
 #Question №3:
 Let us know if anything doesn't work as intended so your reviewer will know ahead of time
