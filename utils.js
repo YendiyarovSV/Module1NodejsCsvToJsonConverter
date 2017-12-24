@@ -17,7 +17,7 @@ module.exports = (function() {
     })
   }
   var saveArrayOfObjectsToJson = function(arrayOfObjects, jsonFilePath){
-    writeToFile(JSON.stringify(arrayOfObjects),
+    writeToFile(JSON.stringify(arrayOfObjects,null,2),
           jsonFilePath);
   }
   return  {
