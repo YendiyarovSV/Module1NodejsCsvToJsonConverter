@@ -3,10 +3,10 @@ This is my first Node.js project in Edx.
 
 Answers about your project:
 ------------------------------------------------------------------------------
-#Question №1:
+# Question №1:
 Walk us through the design of your project. Why did you design your project the way you did? What difficulties did you overcome?
 
-#Answer to the question №1:
+# Answer to the question №1:
 
 My project consists of several files (modules).
 Starting point is 'index.js' file.
@@ -33,7 +33,7 @@ I used event emitter in my csvprocessor in order to give an opportunity to a cli
 writing procedure independently from csvprocessor class hence making it more flexible.
 
 ------------------------------------------------------------------------------
-#Question №2:
+# Question №2:
 How did you test your project to verify that it works? 
 
 #Answer to the question №2:
@@ -43,8 +43,10 @@ Commands like:
 - **node index.js**
 - **node index filename**
 ------------------------------------------------------------------------------
-#Question №3:
+# Question №3:
+
 Let us know if anything doesn't work as intended so your reviewer will know ahead of time
 
-#Answer to the question №3:
+# Answer to the question №3:
+
 Nope everything seems to work just fine! :)
