@@ -11,10 +11,12 @@ Walk us through the design of your project. Why did you design your project the 
 My project consists of several files (modules).
 Starting point is 'index.js' file.
 You can run my project using this command:
+
 **node index**
 
 Also I have included possibility to change csv file name.
 In order to convert csv with a file name different from 'customer-data' you can run my project as follows:
+
 **node index filename**
 
 e.g.: 
@@ -36,7 +38,7 @@ writing procedure independently from csvprocessor class hence making it more fle
 # Question №2:
 How did you test your project to verify that it works? 
 
-#Answer to the question №2:
+# Answer to the question №2:
 
 Commands like: 
 - **node index**
